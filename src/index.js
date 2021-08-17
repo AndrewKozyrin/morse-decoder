@@ -70,8 +70,6 @@ function decode(expr) {
     return result;
 }
 
-// console.log(decode("00101010100000000010001011101000101110100000111111**********00001011110000111111000010111000101110100000111010"));
-
 module.exports = {
     decode
 }
